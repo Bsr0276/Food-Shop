@@ -6,6 +6,9 @@ Bu proje; HTML5, CSS3 ve JavaScript kullanılarak geliştirdiğim modern bir web
 Aşağıda projeye ait bir önizleme GIF’i yer almaktadır:
 
 
+![food0001-ezgif com-optimize](https://github.com/user-attachments/assets/1a1c17a1-187b-4c8f-8e1b-f9b02a91f1ac)
+
+
 
 
 ## 🚀 Özellikler
