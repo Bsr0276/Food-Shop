@@ -24,3 +24,10 @@ Aşağıda projeye ait bir önizleme GIF’i yer almaktadır:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**
+
+📌 Notlar:
+
+
+Bu proje temel web geliştirme becerilerini geliştirmek ve görsel açıdan hoş bir arayüz sunmak amacıyla hazırlanmıştır. İlerleyen aşamalarda daha gelişmiş özellikler ve arka uç entegrasyonu da eklenebilir.
+
+⭐ Eğer projeyi beğendiysen repo'yu yıldızlamayı unutma!
